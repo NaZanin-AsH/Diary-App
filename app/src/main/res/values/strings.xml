@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Diary</string>
+    <string name="miscellameous">other</string>
+    <string name="pick_color">pick color</string>
+</resources>
